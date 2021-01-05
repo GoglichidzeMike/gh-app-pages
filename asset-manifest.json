@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoglichidzeMike/github-webapp-ghpages/static/css/main.591082e2.chunk.css",
+    "main.js": "/GoglichidzeMike/github-webapp-ghpages/static/js/main.38e9fbd1.chunk.js",
+    "main.js.map": "/GoglichidzeMike/github-webapp-ghpages/static/js/main.38e9fbd1.chunk.js.map",
+    "runtime-main.js": "/GoglichidzeMike/github-webapp-ghpages/static/js/runtime-main.8dd40ec9.js",
+    "runtime-main.js.map": "/GoglichidzeMike/github-webapp-ghpages/static/js/runtime-main.8dd40ec9.js.map",
+    "static/js/2.c9a6fa37.chunk.js": "/GoglichidzeMike/github-webapp-ghpages/static/js/2.c9a6fa37.chunk.js",
+    "static/js/2.c9a6fa37.chunk.js.map": "/GoglichidzeMike/github-webapp-ghpages/static/js/2.c9a6fa37.chunk.js.map",
+    "static/js/3.1af7712b.chunk.js": "/GoglichidzeMike/github-webapp-ghpages/static/js/3.1af7712b.chunk.js",
+    "static/js/3.1af7712b.chunk.js.map": "/GoglichidzeMike/github-webapp-ghpages/static/js/3.1af7712b.chunk.js.map",
+    "index.html": "/GoglichidzeMike/github-webapp-ghpages/index.html",
+    "static/css/main.591082e2.chunk.css.map": "/GoglichidzeMike/github-webapp-ghpages/static/css/main.591082e2.chunk.css.map",
+    "static/js/2.c9a6fa37.chunk.js.LICENSE.txt": "/GoglichidzeMike/github-webapp-ghpages/static/js/2.c9a6fa37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd40ec9.js",
+    "static/js/2.c9a6fa37.chunk.js",
+    "static/css/main.591082e2.chunk.css",
+    "static/js/main.38e9fbd1.chunk.js"
+  ]
+}
