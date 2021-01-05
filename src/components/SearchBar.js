@@ -45,7 +45,7 @@ function SearchBar(props) {
             name="keyword"
             placeholder="User Name"
           />
-          <Link to={`/${searchValue}`}>
+          <Link to={`/gh-app-pages/${searchValue}`}>
             <button onClick={handleClick}>Search</button>
           </Link>
         </div>

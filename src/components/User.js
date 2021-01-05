@@ -8,7 +8,8 @@ function User(props) {
       <img className="avatar" src={props.avatarUrl} alt="user_avatar" />
       <div className="details">
         <h4>
-          User Name: <Link to={`/${props.userName}`}> {props.userName}</Link>
+          User Name:{" "}
+          <Link to={`/gh-app-pages/${props.userName}`}> {props.userName}</Link>
         </h4>
         <h5>User Type: {props.type}</h5>
       </div>

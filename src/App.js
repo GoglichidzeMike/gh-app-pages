@@ -27,7 +27,7 @@ function App() {
       <div className="App">
         <div
           className="app-container"
-          style={{ backgroundImage: "url(/img/frame.png)" }}
+          style={{ backgroundImage: "url(/gh-app-pages/img/frame.png)" }}
         >
           <FaArrowCircleUp
             className="scrollTop"
@@ -35,8 +35,8 @@ function App() {
             style={{ height: 40, display: showScroll ? "flex" : "none" }}
           />
           <SearchBar />
-          <Route exact path="/" component={PopularUsers} />
-          <Route path="/:username" component={UserInfo} />
+          <Route exact path="/gh-app-pages/" component={PopularUsers} />
+          <Route path="/gh-app-pages/:username" component={UserInfo} />
           <Footer />
         </div>
       </div>
