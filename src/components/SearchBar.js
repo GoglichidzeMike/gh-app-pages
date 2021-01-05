@@ -29,8 +29,12 @@ function SearchBar(props) {
 
   return (
     <div className="searchBar">
-      <Link className="home-link" to={"/"}>
-        <img className="home-icon" src="../img/home-icon.png" alt="home-icon" />
+      <Link className="home-link" to={"/gh-app-pages/"}>
+        <img
+          className="home-icon"
+          src="../gh-app-pages/img/home-icon.png"
+          alt="home-icon"
+        />
         <p>Home</p>
       </Link>
 
